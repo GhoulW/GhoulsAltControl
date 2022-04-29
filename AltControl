@@ -2571,5 +2571,5 @@ local theGroup = 14728979 -- your group id here
 if game.Players.LocalPlayer:GetRankInGroup(theGroup) == 2 then
     print('Whitelisted')
 else
-    print('Buy Ghouls Alt Control')
+    game.Players.LocalPlayer:Kick('Nigger Tryed To Bypass Buy It Faggot!')
 end
