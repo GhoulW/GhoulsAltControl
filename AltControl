@@ -2571,5 +2571,5 @@ local theGroup = 14728979 -- your group id here
 if game.Players.LocalPlayer:GetRankInGroup(theGroup) == 2 then
     print('Whitelisted')
 else
-    print('Buy Ghoul's Alt Control')
+    print('Buy Ghouls Alt Control')
 end
